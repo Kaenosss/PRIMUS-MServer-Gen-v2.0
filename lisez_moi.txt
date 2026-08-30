@@ -1,0 +1,46 @@
+========================================================================
+                 MServen Gen 2.0 - Minecraft Server Manager
+========================================================================
+
+    ___  __   _____             __     ___   ___  __    ___ 
+  / _ \/__\  \_   \/\/\  /\ /\/ _\   / __\ /___\/__\  / _ \
+ / /_)/ \//   / /\/    \/ / \ \ \   / /   //  // \// / /_)/
+/ ___/ _  \/\/ /_/ /\/\ \ \_/ /\ \ / /___/ \_// _  \/ ___/ 
+\/   \/ \_/\____/\/    \/\___/\__/ \____/\___/\/ \_/\/     
+                                                           
+                      PRIMUS CORP - 2026
+========================================================================
+
+DESCRIPTION :
+MServen Gen 2.0 est un outil d'automatisation et de gestion complet conçu 
+pour simplifier la création, le lancement et la configuration de serveurs 
+Minecraft directement depuis une interface graphique moderne et intuitive.
+
+FONCTIONNALITÉS PRINCIPALES :
+- Assistant de création rapide de serveurs (choix de la version, allocation 
+  de RAM personnalisable avec curseur intelligent, acceptation de l'EULA).
+- Téléchargement automatisé et vérification d'intégrité du fichier server.jar 
+  depuis les serveurs officiels Mojang.
+- Éditeur de configuration complet pour le fichier "server.properties" 
+  (paramètres principaux traduits en français et onglet "Avancé" pour les 
+  options expertes).
+- Éditeur de MOTD intégré avec aperçu en direct des couleurs et des styles 
+  officiels Minecraft (codes §).
+- Lancement simplifié du serveur avec une console dédiée et gestion automatique 
+  de l'initialisation.
+
+COMMUNAUTÉ & SUPPORT :
+Besoin d'aide ou envie de rejoindre la communauté ? 
+Rejoignez-nous sur notre serveur Discord : 
+https://discord.gg/SKQfRDCAYx
+
+CRÉDITS & TRANSPARENCE :
+Ce logiciel a été développé par Kaenos de la team PRIMUS CORP, en collaboration 
+avec l'intelligence artificielle Gemini, qui a assisté à la 
+génération du code source, de l'architecture et de la documentation.
+
+MENTIONS LÉGALES :
+© 2026 PRIMUS CORP.
+Ce programme est fourni tel quel, sans garantie d'aucune sorte. Minecraft 
+est une marque déposée de Mojang Synergies AB.
+========================================================================
