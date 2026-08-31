@@ -58,7 +58,7 @@ cette adresse : https://adoptium.net/fr
 
 <p align="center">
 
-**MServer Gen 2.1 - Minecraft Server Manager**
+**MServer Gen 2.1 - Minecraft Server Manager**<br>
 **PRIMUS CORP - Tous droits réservés.**
 
 </p>
