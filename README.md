@@ -45,13 +45,15 @@ cette adresse : https://adoptium.net/fr
   le serveur, possibilité de modifier le PATH sur la version de Java
   voulue directement dans le logiciel.
 
-  ## 📥 Téléchargement
+<div align="center">
 
-|                                         MServer Gen                                            |
-| :--------------------------------------------------------------------------------------------: |
+## 📥 Téléchargement
+
+| Téléchargement |
+|:--------------:|
 | [⬇️ Télécharger MServer Gen 2.1](https://github.com/Kaenosss/PRIMUS-MServer-Gen-v2.0/releases) |
 
-
+</div>
 ---
 
 <p align="center">
